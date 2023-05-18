@@ -1,0 +1,2 @@
+CREATE DATABASE fuck;
+-- DROP DATABASE fuck;
